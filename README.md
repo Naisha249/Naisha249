@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on HTML,CSS and JavaScript
+- 🔭 I’m currently working on HTML,CSS, JavaScript And Python 
 
 - 🌱 I like to make digital designing
 
@@ -23,9 +23,6 @@
 
 -Nationality: Indian
 
--State: Karnataka
-
--City: Banglore 
  
 <hr>
 ## U Can Reach Me on :
