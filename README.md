@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[My profile](https://github.com/Naisha249)**
 
-- ⚡ Fun fact **I love reading fantasy books.
+- ⚡ Fun fact **I can touch my Nose with my Tongue.
 
 <hr>
 <h1> Know Me</h1>
