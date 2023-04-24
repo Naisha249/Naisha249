@@ -17,7 +17,7 @@
 <hr>
 <h1> Know Me</h1>
 
--Grade: 6
+-Grade: 7
 
 -School: Delhi Public School Banglore East
 
@@ -30,8 +30,6 @@
 *[Codepen](https://codepen.io/Neon_Girl)
 
 *[Github](https://github.com/Naisha249)
-
-*[WhiteHat JR Community](https://community.whitehatjr.com/profile/70f7da2d-bffa-43e0-989a-14373e2d2b70)
 
 *[My gmail] *naisha09singh@gmail.com*
 
