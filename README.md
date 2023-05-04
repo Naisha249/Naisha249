@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I can touch my Nose with my Tongue.
 
+- ✨ I also like to learn languages
+
 <hr>
 <h1> Know Me</h1>
 
