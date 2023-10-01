@@ -8,15 +8,15 @@
 
 ## About Me
 
-- 🔭 I’m currently working on HTML,CSS, JavaScript And Python 
+- 🔭 *I’m currently working on HTML,CSS, JavaScript And Python*. 
 
-- 🌱 I like to make digital designing
+- 🌱 *I love reading Harry Potter and other books*.
 
 - 👨‍💻 All of my projects are available at **[My profile](https://github.com/Naisha249)**
 
-- ⚡ Fun fact **I can touch my Nose with my Tongue.
+- ⚡ Fun fact *I love painting*.
 
-- ✨ I also like to learn languages
+- ✨ *I also like to learn languages*
 
 <hr>
 <h1> Know Me</h1>
@@ -31,7 +31,7 @@
 <hr>
 ## U Can Reach Me on :
 
-*[Codepen](https://codepen.io/Neon_Girl)
+**[Codepen](https://codepen.io/Neon_Girl)*
 
 *[Github](https://github.com/Naisha249)
 
