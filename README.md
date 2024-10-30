@@ -8,15 +8,17 @@
 
 ## About Me
 
-- 🔭 *I’m currently working on HTML,CSS, JavaScript And Python*. 
+- 🔭 *I’m currently working on HTML,CSS, JavaScript,Python and Carla*. 
 
 - 🌱 *I love reading Harry Potter and other books*.
 
-- 👨‍💻 All of my projects are available at **[My profile](https://github.com/Naisha249)**
+- 👨‍💻 Some of my projects are available at **[My profile](https://github.com/Naisha249)**
 
-- ⚡ Fun fact *I love painting*.
+- ⚡ Fun fact *I love painting and listening to music*.
 
 - ✨ *I also like to learn languages*
+  
+- ♉ Zodiac Sign *I'm an Taurus*
 
 <hr>
 <h1> Know Me</h1>
