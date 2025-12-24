@@ -8,9 +8,9 @@
 
 ## About Me
 
-- 🔭 *I’m currently working on HTML,CSS, JavaScript,Python and Carla*. 
+- 🔭 *I’m currently working on HTML, CSS, JavaScript, Python and Carla*. 
 
-- 🌱 *I love reading Books,Dancing,Listening to Music,Playing basketball and badminton*.
+- 🌱 *I love reading Books, Dancing, Listening to Music, Playing Basketball and Badminton*.
 
 - ⚡ Fun fact *Even though I have learnt coding I hope to become an pediatric surgeon once I grow up.*
   
